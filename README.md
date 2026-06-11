@@ -1,4 +1,4 @@
-# Prnumbral Studios Archive
+# Penumbral Studios Archive
 
 This archive of Penumbral Studios was made with Discord History Tracker.
 
