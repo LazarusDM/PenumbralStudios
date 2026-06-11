@@ -4,8 +4,8 @@ This archive of Penumbral Studios was made with Discord History Tracker.
 
 ## Files
 
-- `Penumbral.dht` — message archive
-- `Penumbral.dht_downloads` — downloaded attachments/media, not included because it is 33.7 GB
+- `Penumbral.dht` - message archive
+- `Penumbral.dht_downloads` - downloaded attachments/media, not included because it is 33.7 GB
 
 ## How to open
 
